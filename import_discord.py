@@ -24,4 +24,4 @@ async def Wdiscord(ctx):
 async def HELP(ctx):
     await ctx.send("hello - print welcom messenge\n he - hehehehehe\n Wdiscord - discord's page")
 
-bot.run("MTA4NjU2MjgxMDE2ODg4OTQ1NA.GkXbuD.8FEF-yhH3O7I-2aZ7_xniJm269B0tlpU3amx8I")
+bot.run("")
